@@ -73,8 +73,8 @@ You can find the SQL script used for forward engineering in the `schema.sql` fil
 
 To set up the Airbnb database on your local machine, follow these steps:
 
-1. Execute the SQL script provided in `schema.sql` to create the database and tables.
-2. Enjoy
+1. Execute the SQL script provided in `Airbnb_code.sql` to create the database and tables.
+2. Run the file Airbnb_INSERT.sql to add test data.
 
 
 
